@@ -3,7 +3,7 @@
     <template #home-hero-info>
       <div class="VPHero">
         <h1 class="name">
-          <span class="clip">Фармилка</span>
+          <span class="clip">Гайд по Фармилке</span>
         </h1>
         <div class="custom-hero-text">
           <TypingText :words="['Build', 'Farm', 'Work']" rest-text=" Together!" />
