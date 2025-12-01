@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Фармилка",
   description: "Гайд по проекту Фармилка - Build Together! Farm Together!",
   lang: 'ru-RU',
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
