@@ -2,4 +2,4 @@
 
 Сборник сливов сторонних СНГ приваток по крипто-активностям, включающим в себя приватки по NFT, ретордропам, щиткоинам и прочим активностям.
 
-**Разбор приваток из fMirror Alpha 1.0:** http://localhost:5173/mirrors-review/fmirror-alpha-1.html
+**[Разбор приваток из fMirror Alpha 1.0](/mirrors-review/fmirror-alpha-1)**

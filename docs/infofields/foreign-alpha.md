@@ -4,4 +4,4 @@
 
 > Доступ к Зарубежной Альфе возможен только пользователям с ролью [Worker](/roles-airdrops/worker/). _Подробно о системе ролей мы поговорим позднее в разделе [`Роли и аирдропы`](/roles-airdrops/introduction/)_.
 
-**Разбор приваток из Зарубежной Альфы:** http://localhost:5173/mirrors-review/foreign-alpha.html
+**[Разбор приваток из Зарубежной Альфы](/mirrors-review/foreign-alpha)**
