@@ -4,4 +4,4 @@
 
 > Доступ к fMirror Alpha 2.0 возможен только пользователям с ролью [Worker](/roles-airdrops/worker/). _Подробно о системе ролей мы поговорим позднее в разделе [`Роли и аирдропы`](/roles-airdrops/introduction/)_.
 
-**Разбор приваток из fMirror Alpha 2.0:** http://localhost:5173/mirrors-review/fmirror-alpha-2.html
+**[Разбор приваток из fMirror Alpha 2.0](/mirrors-review/fmirror-alpha-2)**
