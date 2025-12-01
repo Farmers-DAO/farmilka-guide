@@ -7,7 +7,7 @@ export default defineConfig({
   lang: "ru-RU",
   ignoreDeadLinks: true,
   base: "/",
-  head: [["link", { rel: "icon", href: "/farmilka-guide/favicon.ico" }]], 
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]], 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
