@@ -1,6 +1,6 @@
 # Ежемесячное командное распредление пула
 
->Доступен обладателям ролей [Team Worker](/roles-airdrop/team-worker.md) и [Team](/roles-airdrop/team.md).
+>Доступен обладателям ролей [Team Worker](/roles-airdrop/team-worker) и [Team](/roles-airdrop/team).
 
 ## Это не аирдроп и не зарплата.
 
