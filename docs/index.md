@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: ♻️ Гайд по Контент-Хабу
       link: /content-hub
+    - theme: alt
+      text: 🏆 Роли и аирдропы
+      link: /roles-airdrops/introduction
 
 features:
   - icon: 📚
