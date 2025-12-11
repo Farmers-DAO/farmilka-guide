@@ -24,8 +24,9 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Старт", link: "/introduction/start" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
               link: "/introduction/communication-between-tools",
@@ -39,11 +40,11 @@ export default defineConfig({
         {
           text: "Инструменты инфополя",
           items: [
+            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Alpha 1.0", link: "/infofields/fmirror-alpha-1" },
             { text: "fMirror Alpha 2.0", link: "/infofields/fmirror-alpha-2" },
             { text: "Зарубежная Альфа", link: "/infofields/foreign-alpha" },
             { text: "fKoreanDrops", link: "/infofields/fkorean-drops" },
-            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Trade", link: "/infofields/fmirror-trade" },
             {
               text: "fMirror Arbitrage",
@@ -94,41 +95,6 @@ export default defineConfig({
             { text: "Архив", link: "/community-tools/archive" },
             { text: "fProfit", link: "/community-tools/fprofit" },
             { text: "Чат", link: "/community-tools/chat" },
-          ],
-        },
-        {
-          text: "Роли и аирдропы",
-          items: [
-            { text: "Введение", link: "/roles-airdrops/introduction" },
-            { text: "Заповеди Фармилки", link: "/roles-airdrops/commandments" },
-            {
-              text: "Структура ролей",
-              link: "/roles-airdrops/structure-of-roles",
-            },
-            { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
-            {
-              text: "Структура аирдропов и поощрений",
-              link: "/roles-airdrops/structure-of-rewards",
-            },
-            {
-              text: "Награды за полезную активность",
-              link: "/roles-airdrops/valuable-activity-rewards",
-            },
-            {
-              text: "Награды за активность в ключевых инструментах",
-              link: "/roles-airdrops/key-activity-rewards",
-            },
-            {
-              text: "Награды за признательность со стороны комьюнити",
-              link: "/roles-airdrops/community-appreciation-rewards",
-            },
-            {
-              text: "Ежемесячное командное распредление пула",
-              link: "/roles-airdrops/monthly-team-rewards",
-            },
           ],
         },
         {
@@ -155,8 +121,9 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Старт", link: "/introduction/start" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
               link: "/introduction/communication-between-tools",
@@ -170,11 +137,11 @@ export default defineConfig({
         {
           text: "Инструменты инфополя",
           items: [
+            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Alpha 1.0", link: "/infofields/fmirror-alpha-1" },
             { text: "fMirror Alpha 2.0", link: "/infofields/fmirror-alpha-2" },
             { text: "Зарубежная Альфа", link: "/infofields/foreign-alpha" },
             { text: "fKoreanDrops", link: "/infofields/fkorean-drops" },
-            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Trade", link: "/infofields/fmirror-trade" },
             {
               text: "fMirror Arbitrage",
@@ -225,41 +192,6 @@ export default defineConfig({
             { text: "Архив", link: "/community-tools/archive" },
             { text: "fProfit", link: "/community-tools/fprofit" },
             { text: "Чат", link: "/community-tools/chat" },
-          ],
-        },
-        {
-          text: "Роли и аирдропы",
-          items: [
-            { text: "Введение", link: "/roles-airdrops/introduction" },
-            { text: "Заповеди Фармилки", link: "/roles-airdrops/commandments" },
-            {
-              text: "Структура ролей",
-              link: "/roles-airdrops/structure-of-roles",
-            },
-            { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
-            {
-              text: "Структура аирдропов и поощрений",
-              link: "/roles-airdrops/structure-of-rewards",
-            },
-            {
-              text: "Награды за полезную активность",
-              link: "/roles-airdrops/valuable-activity-rewards",
-            },
-            {
-              text: "Награды за активность в ключевых инструментах",
-              link: "/roles-airdrops/key-activity-rewards",
-            },
-            {
-              text: "Награды за признательность со стороны комьюнити",
-              link: "/roles-airdrops/community-appreciation-rewards",
-            },
-            {
-              text: "Ежемесячное командное распредление пула",
-              link: "/roles-airdrops/monthly-team-rewards",
-            },
           ],
         },
         {
@@ -286,8 +218,9 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Старт", link: "/introduction/start" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
               link: "/introduction/communication-between-tools",
@@ -301,11 +234,11 @@ export default defineConfig({
         {
           text: "Инструменты инфополя",
           items: [
+            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Alpha 1.0", link: "/infofields/fmirror-alpha-1" },
             { text: "fMirror Alpha 2.0", link: "/infofields/fmirror-alpha-2" },
             { text: "Зарубежная Альфа", link: "/infofields/foreign-alpha" },
             { text: "fKoreanDrops", link: "/infofields/fkorean-drops" },
-            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Trade", link: "/infofields/fmirror-trade" },
             {
               text: "fMirror Arbitrage",
@@ -356,41 +289,6 @@ export default defineConfig({
             { text: "Архив", link: "/community-tools/archive" },
             { text: "fProfit", link: "/community-tools/fprofit" },
             { text: "Чат", link: "/community-tools/chat" },
-          ],
-        },
-        {
-          text: "Роли и аирдропы",
-          items: [
-            { text: "Введение", link: "/roles-airdrops/introduction" },
-            { text: "Заповеди Фармилки", link: "/roles-airdrops/commandments" },
-            {
-              text: "Структура ролей",
-              link: "/roles-airdrops/structure-of-roles",
-            },
-            { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
-            {
-              text: "Структура аирдропов и поощрений",
-              link: "/roles-airdrops/structure-of-rewards",
-            },
-            {
-              text: "Награды за полезную активность",
-              link: "/roles-airdrops/valuable-activity-rewards",
-            },
-            {
-              text: "Награды за активность в ключевых инструментах",
-              link: "/roles-airdrops/key-activity-rewards",
-            },
-            {
-              text: "Награды за признательность со стороны комьюнити",
-              link: "/roles-airdrops/community-appreciation-rewards",
-            },
-            {
-              text: "Ежемесячное командное распредление пула",
-              link: "/roles-airdrops/monthly-team-rewards",
-            },
           ],
         },
         {
@@ -417,8 +315,9 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Старт", link: "/introduction/start" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
               link: "/introduction/communication-between-tools",
@@ -432,11 +331,11 @@ export default defineConfig({
         {
           text: "Инструменты инфополя",
           items: [
+            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Alpha 1.0", link: "/infofields/fmirror-alpha-1" },
             { text: "fMirror Alpha 2.0", link: "/infofields/fmirror-alpha-2" },
             { text: "Зарубежная Альфа", link: "/infofields/foreign-alpha" },
             { text: "fKoreanDrops", link: "/infofields/fkorean-drops" },
-            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Trade", link: "/infofields/fmirror-trade" },
             {
               text: "fMirror Arbitrage",
@@ -487,41 +386,6 @@ export default defineConfig({
             { text: "Архив", link: "/community-tools/archive" },
             { text: "fProfit", link: "/community-tools/fprofit" },
             { text: "Чат", link: "/community-tools/chat" },
-          ],
-        },
-        {
-          text: "Роли и аирдропы",
-          items: [
-            { text: "Введение", link: "/roles-airdrops/introduction" },
-            { text: "Заповеди Фармилки", link: "/roles-airdrops/commandments" },
-            {
-              text: "Структура ролей",
-              link: "/roles-airdrops/structure-of-roles",
-            },
-            { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
-            {
-              text: "Структура аирдропов и поощрений",
-              link: "/roles-airdrops/structure-of-rewards",
-            },
-            {
-              text: "Награды за полезную активность",
-              link: "/roles-airdrops/valuable-activity-rewards",
-            },
-            {
-              text: "Награды за активность в ключевых инструментах",
-              link: "/roles-airdrops/key-activity-rewards",
-            },
-            {
-              text: "Награды за признательность со стороны комьюнити",
-              link: "/roles-airdrops/community-appreciation-rewards",
-            },
-            {
-              text: "Ежемесячное командное распредление пула",
-              link: "/roles-airdrops/monthly-team-rewards",
-            },
           ],
         },
         {
@@ -548,8 +412,9 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Старт", link: "/introduction/start" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
               link: "/introduction/communication-between-tools",
@@ -563,11 +428,11 @@ export default defineConfig({
         {
           text: "Инструменты инфополя",
           items: [
+            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Alpha 1.0", link: "/infofields/fmirror-alpha-1" },
             { text: "fMirror Alpha 2.0", link: "/infofields/fmirror-alpha-2" },
             { text: "Зарубежная Альфа", link: "/infofields/foreign-alpha" },
             { text: "fKoreanDrops", link: "/infofields/fkorean-drops" },
-            { text: "Оперативный Бот", link: "/infofields/oper-bot" },
             { text: "fMirror Trade", link: "/infofields/fmirror-trade" },
             {
               text: "fMirror Arbitrage",
@@ -618,41 +483,6 @@ export default defineConfig({
             { text: "Архив", link: "/community-tools/archive" },
             { text: "fProfit", link: "/community-tools/fprofit" },
             { text: "Чат", link: "/community-tools/chat" },
-          ],
-        },
-        {
-          text: "Роли и аирдропы",
-          items: [
-            { text: "Введение", link: "/roles-airdrops/introduction" },
-            { text: "Заповеди Фармилки", link: "/roles-airdrops/commandments" },
-            {
-              text: "Структура ролей",
-              link: "/roles-airdrops/structure-of-roles",
-            },
-            { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
-            {
-              text: "Структура аирдропов и поощрений",
-              link: "/roles-airdrops/structure-of-rewards",
-            },
-            {
-              text: "Награды за полезную активность",
-              link: "/roles-airdrops/valuable-activity-rewards",
-            },
-            {
-              text: "Награды за активность в ключевых инструментах",
-              link: "/roles-airdrops/key-activity-rewards",
-            },
-            {
-              text: "Награды за признательность со стороны комьюнити",
-              link: "/roles-airdrops/community-appreciation-rewards",
-            },
-            {
-              text: "Ежемесячное командное распредление пула",
-              link: "/roles-airdrops/monthly-team-rewards",
-            },
           ],
         },
         {
@@ -710,9 +540,10 @@ export default defineConfig({
               link: "/roles-airdrops/structure-of-roles",
             },
             { text: "Роль Minion", link: "/roles-airdrops/minion" },
-            { text: "Роль Worker", link: "/roles-airdrops/worker" },
-            { text: "Роль Team Worker", link: "/roles-airdrops/team-worker" },
-            { text: "Роль TEAM", link: "/roles-airdrops/team" },
+            { text: "Роль Scout", link: "/roles-airdrops/scout" },
+            { text: "Роль Researcher", link: "/roles-airdrops/researcher" },
+            { text: "Роль Solo Caller", link: "/roles-airdrops/solo-caller" },
+            { text: "Роль Team", link: "/roles-airdrops/team" },
           ]
         },
         {
