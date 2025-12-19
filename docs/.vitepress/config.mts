@@ -60,8 +60,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
-            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
-            { text: "Воркаем Ретро", link: "/working-tools/work-retro" },
+            { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
               link: "/working-tools/to-do",
@@ -157,8 +156,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
-            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
-            { text: "Воркаем Ретро", link: "/working-tools/work-retro" },
+            { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
               link: "/working-tools/to-do",
@@ -254,8 +252,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
-            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
-            { text: "Воркаем Ретро", link: "/working-tools/work-retro" },
+            { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
               link: "/working-tools/to-do",
@@ -351,8 +348,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
-            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
-            { text: "Воркаем Ретро", link: "/working-tools/work-retro" },
+            { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
               link: "/working-tools/to-do",
@@ -448,8 +444,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
-            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
-            { text: "Воркаем Ретро", link: "/working-tools/work-retro" },
+            { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
               link: "/working-tools/to-do",
