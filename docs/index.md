@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 📝 Полный гайд по Фармилке
-      link: /introduction/start
+      link: /introduction/welcome
     - theme: alt
-      text: ♻️ Гайд по Контент-Хабу
-      link: /content-hub
+      text: 💻 Инструменты активного комьюнити
+      link: /active-community/introduction
     - theme: alt
       text: 🏆 Роли и аирдропы
       link: /roles-airdrops/introduction

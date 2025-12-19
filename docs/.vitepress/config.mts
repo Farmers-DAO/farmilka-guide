@@ -12,11 +12,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Главная", link: "/" },
-      { text: "Полный гайд", link: "/introduction/start" },
-      { text: "Контент-Хаб", link: "/content-hub/" },
+      { text: "Полный гайд", link: "/introduction/welcome " },
+      { text: "Инструменты активного комьюнити", link: "/active-community/introduction" },
       { text: "Роли и аирдропы", link: "/roles-airdrops/introduction" },
     ],
-
     // Разные sidebar для разных разделов
     sidebar: {
       // Sidebar для Полного гайда (все страницы кроме /content-hub/)
@@ -24,8 +23,8 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
@@ -60,6 +59,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
+            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
             { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
@@ -120,8 +120,8 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
@@ -156,6 +156,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
+            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
             { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
@@ -216,8 +217,8 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
@@ -252,6 +253,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
+            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
             { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
@@ -312,8 +314,8 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
@@ -348,6 +350,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
+            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
             { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
@@ -408,8 +411,8 @@ export default defineConfig({
         {
           text: "Введение",
           items: [
-            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Добро пожаловать", link: "/introduction/welcome" },
+            { text: "Базовые принципы", link: "/introduction/basic-principles" },
             { text: "Начало работы", link: "/introduction/start" },
             {
               text: "Связь инструментов",
@@ -444,6 +447,7 @@ export default defineConfig({
         {
           text: "Рабочие инструменты",
           items: [
+            { text: "Контент-Хаб", link: "/working-tools/content-hub" },
             { text: "fRetrodrops", link: "/working-tools/fretrodrops" },
             {
               text: "Что Воркает Фармилка [TO DO]",
@@ -537,7 +541,7 @@ export default defineConfig({
             { text: "Роль Minion", link: "/roles-airdrops/minion" },
             { text: "Роль Scout", link: "/roles-airdrops/scout" },
             { text: "Роль Researcher", link: "/roles-airdrops/researcher" },
-            { text: "Роль Solo Caller", link: "/roles-airdrops/solo-caller" },
+            { text: "Роль Team Caller", link: "/roles-airdrops/team-caller" },
             { text: "Роль Team", link: "/roles-airdrops/team" },
           ]
         },
@@ -567,6 +571,49 @@ export default defineConfig({
           ]
         }
       ],
+      "/active-community/": [
+        {
+          text: 'Введение',
+          items: [
+            {text: 'Введение', link: '/active-community/introduction'}
+          ]
+        },
+        {
+          text: 'Контент-Хаб',
+          items: [
+            { text: "Что такое Контент-Хаб?", link: "/active-community/content-hub/" },
+            {
+              text: "Хэштеги и правила постинга",
+              link: "/active-community/content-hub/hashtags",
+            },
+            { text: "Начисление опыта", link: "/active-community/content-hub/experience" },
+            { text: "Система штрафов", link: "/active-community/content-hub/penalties" },
+            { text: "Система ролей", link: "/active-community/content-hub/roles" },
+            { text: "Команды бота", link: "/active-community/content-hub/commands" },
+            { text: "Пример публикации", link: "/active-community/content-hub/example" },
+          ]
+        },
+        {
+          text: 'Что Воркает Фармилка [TO DO]',
+          items: [
+            { text: "Что такое TO DO?", link: "/active-community/to-do/" },
+            {
+              text: "Правила постинга",
+              link: "/active-community/to-do/posting-terms",
+            }
+          ]
+        },
+        {
+          text: 'fProfit',
+          items: [
+            { text: "Что такое fProfit?", link: "/active-community/fprofit/" },
+            {
+              text: "Правила постинга",
+              link: "/active-community/fprofit/posting-terms",
+            }
+          ]
+        }
+      ]
     },
 
     socialLinks: [
