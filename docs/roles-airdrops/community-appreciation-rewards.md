@@ -1,6 +1,6 @@
 # Аирдроп на основе благодарностей комьюнити.
 
->Доступен **ТОЛЬКО** обладателям роли [Scout](/roles-airdrops/scout).
+>Доступен **ТОЛЬКО** обладателям роли [Scout](/roles-airdrops/scout), [Researcher](/roles-airdrops/researcher).
 
 Распределение аирдропа проходит среди пользователей с ролью [Scout](/roles-airdrops/scout), которых больше всего благодарили в [fProfit](/community-tools/fprofit/).
 
