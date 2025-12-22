@@ -575,7 +575,9 @@ export default defineConfig({
         {
           text: 'Введение',
           items: [
-            {text: 'Введение', link: '/active-community/introduction'}
+            {text: 'Начало', link: '/active-community/introduction'},
+            {text: 'Задачи инструментов для активного комьюнити', link: '/active-community/tasks-of-tools'},
+            {text: 'Промежуточный итог', link: '/active-community/interim-result'},
           ]
         },
         {
@@ -588,7 +590,6 @@ export default defineConfig({
             },
             { text: "Начисление опыта", link: "/active-community/content-hub/experience" },
             { text: "Система штрафов", link: "/active-community/content-hub/penalties" },
-            { text: "Система ролей", link: "/active-community/content-hub/roles" },
             { text: "Команды бота", link: "/active-community/content-hub/commands" },
             { text: "Пример публикации", link: "/active-community/content-hub/example" },
           ]
@@ -600,7 +601,8 @@ export default defineConfig({
             {
               text: "Правила постинга",
               link: "/active-community/to-do/posting-terms",
-            }
+            },
+            { text: "Пример публикации", link: "/active-community/to-do/example" },
           ]
         },
         {
@@ -610,7 +612,8 @@ export default defineConfig({
             {
               text: "Правила постинга",
               link: "/active-community/fprofit/posting-terms",
-            }
+            },
+            { text: "Пример публикации", link: "/active-community/fprofit/example" },
           ]
         }
       ]
