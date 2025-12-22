@@ -1,4 +1,4 @@
-# fMirror Arbitrage
+# fMirror Arbitrage.
 
 Сборник сливов СНГ приваток по арбитражу.
 

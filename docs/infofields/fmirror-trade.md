@@ -1,4 +1,4 @@
-# fMirror Trade
+# fMirror Trade.
 
 Сборник сливов СНГ приваток по трейдингу. 
 
