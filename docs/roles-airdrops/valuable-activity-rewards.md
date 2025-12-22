@@ -1,6 +1,6 @@
 # Аирдроп за полезную активность.
 
->Доступен обладателям ролей [Minion](/roles-airdrops/minion), [Worker](/roles-airdrops/worker/) и [Team Worker](/roles-airdrops/team-worker/).
+>Доступен обладателям ролей [Minion](/roles-airdrops/minion), [Scout](/roles-airdrops/scout/), [Researcher](/roles-airdrops/researcher).
 
 Самый простой аирдроп, направленный на поддержание общей активности в Фармилке. В нём могут принимать участие все пользователи, кроме участников основной команды _([Роль TEAM](/roles-airdrops/team/))_.
 
